@@ -22,7 +22,7 @@ python src/sim.py
 ```
 
 ## Roadmap
-1. âœ… Vacuum point-mass trajectory, validated against analytic range
+1. **(done)** Vacuum point-mass trajectory, validated against analytic range
 2. Drag + ISA standard atmosphere, Euler vs RK4 comparison
 3. Mach-dependent drag coefficient (transonic rise), range vs launch speed
 4. Thrust: boost-then-coast with decreasing mass
